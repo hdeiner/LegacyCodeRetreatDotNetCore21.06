@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyCodeRetreatDotNetCore21.06", "LegacyCodeRetreatDotNetCore21.06\LegacyCodeRetreatDotNetCore21.06.csproj", "{569473AA-9BA8-46EC-B5F0-197BB5E9547F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569473AA-9BA8-46EC-B5F0-197BB5E9547F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569473AA-9BA8-46EC-B5F0-197BB5E9547F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569473AA-9BA8-46EC-B5F0-197BB5E9547F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569473AA-9BA8-46EC-B5F0-197BB5E9547F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3A2D9DC-522E-4D15-83F8-C0A2E37FAFB4}
+	EndGlobalSection
+EndGlobal
